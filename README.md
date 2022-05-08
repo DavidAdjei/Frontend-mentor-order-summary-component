@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/order-summary-component-rk0gIQr8q)
 - Live Site URL: (https://davidadjei.github.io/Frontend-mentor-order-summary-component/)
 
 ## My process
@@ -51,5 +51,7 @@ I focused on improving my css skills and java script.
 ## Author
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
--LinkedIn -[]()
+- Twitter - [@nharnahadjei2
+](https://twitter.com/nharnahadjei2)
+-Linkedin - [David (Nana Ntow) Adjei](https://www.linkedin.com/in/david-adjei-313a811a2/)
+

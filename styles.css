@@ -34,7 +34,7 @@ body {
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
-    border-radius: 0.7rem;
+    border-radius: 0.9rem;
     background-color: #fff;
     overflow: hidden;
 }
@@ -135,10 +135,10 @@ span {
     border-radius: 0.8rem;
     color: #fff;
     width: 100%;
-    font-size: 1rem;
+    font-size: 1.2rem;
     font-weight: 500;
     text-align: center;
-    box-shadow: 0px 11px 6px 2px hsl(225deg 100% 98%);
+    box-shadow: 0px 19px 4px 6px hsl(225deg 100% 98%);
 }
 
 .cta__blue:hover {
@@ -151,7 +151,7 @@ span {
     font-weight: bold;
     padding: 10px;
     padding-bottom: 20px;
-    font-size: 11px;
+    font-size: 1rem;
 }
 
 .cta__cancel:hover {
@@ -159,13 +159,42 @@ span {
     ;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 40rem) {
     body {
         background-image: url(./images/pattern-background-mobile.svg);
     }
 
     .card{
-        height: 29.5714286rem;
+        width: 20rem;
+        height: 40rem;
+    }
+
+    .lower{
+        padding: 2.6rem;
+    }
+
+    .title{
+        font-size: 1.6rem;
+    }
+
+    .description{
+        font-size: .8rem;
+    }
+
+    .plan p{
+        font-size: .9rem;
+    }
+
+    .change{
+        font-size: .83rem;
+    }
+
+    .cta__blue{
+        font-size: .87rem;
+    }
+
+    .cta__cancel{
+        font-size: .87rem;
     }
 
 }
